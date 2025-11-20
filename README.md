@@ -1,11 +1,11 @@
-# Timebox - McHacks 2025 "Best Use of Midnight" Challenge  
+# Timebox - McHacks 2025 "Best Use of Midnight" Challenge 🏆
 ![Homepage Screenshot](Homepage_SC.png)
-
-Unfortunately, the Midnight testnet was down so we couldn't implement Midnight. The following README will be written as though we were able to implement it and it will describe how we would have used it.
 
 Timebox is a **privacy-focused digital time capsule** platform powered by **Midnight's confidential smart contracts**. It allows users to **store encrypted messages on the blockchain**, ensuring they can only be accessed after a specified unlock time.  
 
 With **zero-knowledge proofs (ZKPs)** and **decentralized storage**, Timebox guarantees that your messages remain **secure, private, and tamper-proof** until the moment they are meant to be revealed.  
+
+Unfortunately, the Midnight testnet was down so we couldn't implement Midnight. The following README will be written as though we were able to implement it and it will describe how we would have used it.
 
 ---
 
